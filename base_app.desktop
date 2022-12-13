@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=test
+Comment=Openvpn to test
+Path=/opt/openvpnicon
+Exec=sudo /opt/openvpnicon/activate.sh openvpn-client@test ~/Desktop/test.desktop
+Icon=/opt/openvpnicon/icons/icon_running.png
+Terminal=true
+Categories=Utility;Application;
